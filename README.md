@@ -1,4 +1,6 @@
-### Hi there 👋
+## [![header image](https://github.com/eleanorlutz/eleanorlutz/blob/master/images/header.gif)](https://eleanorlutz.com)
+
+<p align="center"> Hi! 👋 I'm Eleanor and I make designs from data. Right now I work for the New York Times.</p>
 
 <!--
 **eleanorlutz/eleanorlutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
