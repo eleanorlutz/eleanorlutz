@@ -1,4 +1,4 @@
-## [![header image](https://github.com/eleanorlutz/eleanorlutz/blob/master/images/header.gif)](https://eleanorlutz.com)
+## [![header image](https://github.com/eleanorlutz/eleanorlutz/blob/main/images/header.gif)](https://eleanorlutz.com)
 
 <p align="center"> Hi! 👋 I'm Eleanor and I make designs from data. Right now I work for the New York Times.</p>
 
